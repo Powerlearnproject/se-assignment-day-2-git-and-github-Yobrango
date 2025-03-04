@@ -8,6 +8,7 @@ Fundamental Concepts of Version Control
 Repository
 
 A storage location containing all versions of a project's files and history. It serves as the central database for tracking changes.
+
 Commit
 
 A snapshot of changes made to the codebase, allowing developers to save progress and revert to earlier versions if needed.
